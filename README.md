@@ -5,14 +5,14 @@ Deep learning has advanced medical image classification but remains heavily reli
 
 
 ## Contributors
-
-- **Anar Alimzade** - Implementation of generative and classification models in all experimental setups.
-- **Emily Vorderwülbeke** - Data preprocessing and other significant contributions.
-- **Hadi Sulaiman** - Evaluation.
-- **Meher Aisha** - Introductory research.
+- **Meher Aisha** - Carried out introductory research and background study.
+- **Emily Vorderwülbeke** - Conducted data analysis and preprocessing.
+- **Anar Alimzade** - Developed and implemented generative and classification models across all experimental setups.
+- **Hadi Sulaiman** - Performed evaluation and interpretation of results.
 
 ## Details
 
-This study was conducted as part of the **"Data Science Lab"** course at the **University of Passau**. It focuses on **testing the effect of synthetic data**, when used for augmentation in classification of brain tumor classes from the [Brain Tumor MRI Dataset](https://www.kaggle.com/datasets/masoudnickparvar/brain-tumor-mri-dataset). 
+This study was conducted as part of the **"Data Science Lab"** course at the **University of Passau**. It investigates the **effectiveness of synthetic data augmentation** in the classification of brain tumor types using the [Brain Tumor MRI Dataset](https://www.kaggle.com/datasets/masoudnickparvar/brain-tumor-mri-dataset).
+
 
 ![project_ddpm](https://github.com/user-attachments/assets/f54bc6f7-4df4-4008-853a-c7172f017f43)
