@@ -7,7 +7,7 @@ Deep learning has advanced medical image classification but remains heavily reli
 ## Contributors
 - **Meher Aisha** - Carried out introductory research and background study.
 - **Emily Vorderwülbeke** - Conducted data analysis and preprocessing.
-- **Anar Alimzade** - Developed and implemented generative and classification models across all experimental setups.
+- **Anar Alimzade** - Developed and implemented generative and classification models for all experiments.
 - **Hadi Sulaiman** - Performed evaluation and interpretation of results.
 
 ## Details
